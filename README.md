@@ -1,6 +1,6 @@
 ### Eaeee! Me chamo Pedro 
 
-- 👨‍💻 Atualmente cursando - Programador full-stack (Stage: Versionamento)
+- 👨‍💻 Atualmente cursando - Programador full-stack
 - 🐱‍🐉 Colecionador de Mangás e algumas HQ's
 
 ##
